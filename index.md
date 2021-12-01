@@ -1,34 +1,30 @@
-## Digital CV
+# Digital CV
 
+![S__26451972](https://user-images.githubusercontent.com/95371748/144287952-ba1aba40-5e6b-46b5-8d13-cacff396f55e.jpg)
 
-### Markdown
+## _Personal Profile_
+**Name** Sipang Tacha-a-pornchai
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Date of Birth** 1 July 2000
 
-```markdown
-Syntax highlighted code block
+**Nationality** Thai
 
-# Header 1
-## Header 2
-### Header 3
+## _Education_
 
-- Bulleted
-- List
+**_High School_**<br>
+**Bodindecha (Sing Singhaseni) 2 School**<br>
+:date: **05/2015 - 03/2018** :round_pushpin: **Bangkok, Thailand**<br>
+> GPA : 3.34
 
-1. Numbered
-2. List
+**_ฺBachelor's Degree_**<br>
+:date: **07/2021 - Present** :round_pushpin: **Pathum Thani, Thailand**
 
-**Bold** and _Italic_ and `Code` text
+## _Achievements_
 
-[Link](url) and ![Image](src)
-```
+> Award of the best score in PE subject, 100 points in 2015<br>
+> Good conduct student award in 2015-2018
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## Activity_
 
-### Jekyll Themes
+> Participate in the A-Math Championship comptition in 2017
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fenicek/TU107/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
