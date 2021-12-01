@@ -27,4 +27,3 @@
 ## _Activity_
 
 > Participate in the A-Math Championship comptition in 2017
-
