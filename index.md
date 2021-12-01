@@ -24,6 +24,6 @@ _Date_: **07/2021 - Present**  _Location_: **Pathum Thani, Thailand**
 > Award of the best score in PE subject, 100 points in 2015<br>
 > Good conduct student award in 2015-2018
 
-## _Activitys_
+## _Activity_
 
 > Participate in the A-Math Championship comptition in 2017
