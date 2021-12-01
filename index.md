@@ -16,7 +16,7 @@
 :date: **05/2015 - 03/2018** :round_pushpin: **Bangkok, Thailand**<br>
 > GPA : 3.34
 
-**_ฺBachelor's Degree_**<br>
+**_Bachelor's Degree_**<br>
 :date: **07/2021 - Present** :round_pushpin: **Pathum Thani, Thailand**
 
 ## _Achievements_
