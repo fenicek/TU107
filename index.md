@@ -24,7 +24,7 @@
 > Award of the best score in PE subject, 100 points in 2015<br>
 > Good conduct student award in 2015-2018
 
-## Activity_
+## _Activity_
 
 > Participate in the A-Math Championship comptition in 2017
 
