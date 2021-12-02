@@ -17,6 +17,7 @@ _Date_: **05/2015 - 03/2018**  _Location_: **Bangkok, Thailand**<br>
 > GPA : 3.34
 
 **_Bachelor's Degree_**<br>
+**Thammasat University, Bachelor of Science Program in Data Science and Innovation**
 _Date_: **07/2021 - Present**  _Location_: **Pathum Thani, Thailand**
 
 ## _Achievements_
